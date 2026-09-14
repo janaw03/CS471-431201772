@@ -1,4 +1,5 @@
-# CS471-431201772
-Jana Alharbi
-431201772
-5531
+# CS471 Web Technologies
+
+Full Name: Jana Alharbi
+Student ID: 431201772
+Lab Section: 5531
